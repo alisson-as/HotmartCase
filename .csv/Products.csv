@@ -1,0 +1,76 @@
+product_id,producer_id,registry_date,recovery_active,member_area_active,deletion_date,niche,base_price,type
+218834610,1,2020-03-30,1,1,,Marketing,780,Curso
+253458328,4,2021-05-24,0,0,,Educação Infantil,560,Assinatura
+466262361,6,2020-11-13,1,1,,Empreendedorismo,800,Curso
+613311395,2,2018-02-28,0,0,,Financas,680,Curso
+528943857,2,2018-09-15,1,0,,Financas,500,Curso
+937565380,5,2019-02-11,1,1,,Financas,850,Palestra
+838284194,2,2019-01-18,1,1,,Financas,970,Curso
+204306513,2,2018-11-20,1,1,,Financas,660,Curso
+399974968,1,2018-05-21,0,0,,Tecnologia e Inovação,45,Ebook
+858972318,2,2018-07-13,1,0,,Financas,"1,300.00",Palestra
+603575193,8,2020-09-15,0,0,,Tecnologia e Inovação,"1,240.00",Palestra
+780973554,6,2021-10-23,1,1,,Saúde e Alimentação,950,Assinatura
+489748266,1,2018-10-30,1,1,,Marketing,"1,000.00",Assinatura
+328762963,7,2020-08-06,1,0,,Saúde e Alimentação,520,Curso
+983844542,3,2020-01-02,1,0,,Empreendedorismo,650,Assinatura
+817310632,2,2019-12-30,0,0,,Tecnologia e Inovação,56,Ebook
+541916844,4,2021-07-20,0,0,,Educação Infantil,670,Palestra
+570411901,2,2018-01-04,0,0,,Financas,45,Ebook
+642907827,5,2019-03-28,1,1,,Financas,630,Curso
+545252229,4,2022-09-14,0,0,,Educação Infantil,210,Curso
+275653577,10,2020-01-29,0,0,,Artes e Design,48,Ebook
+343411650,8,2019-07-07,0,0,,Tecnologia e Inovação,49,Ebook
+661972360,6,2022-10-24,1,1,,Saúde e Alimentação,530,Assinatura
+324917616,9,2018-12-21,1,0,,Viagens,90,Ebook
+428909199,1,2018-02-03,1,0,,Marketing,480,Curso
+348532296,10,2020-02-17,1,0,,Financas,680,Curso
+844949729,3,2020-12-13,1,0,,Empreendedorismo,390,Curso
+325563626,8,2019-01-11,0,0,2020-08-25,Marketing,660,Assinatura
+903828613,6,2020-02-27,1,0,,Financas,590,Curso
+902401640,6,2020-05-20,1,0,,Saúde e Alimentação,670,Assinatura
+794981367,1,2020-01-12,1,1,,Marketing,660,Curso
+899309605,3,2022-02-13,0,0,,Tecnologia e Inovação,52,Ebook
+358559810,9,2018-05-25,1,1,,Viagens,410,Assinatura
+534583965,2,2019-12-18,0,0,2021-02-18,Financas,35,Ebook
+603531440,5,2019-05-30,1,0,2021-06-14,Financas,580,Produto Físico
+897822682,7,2021-05-13,0,0,,Tecnologia e Inovação,73,Ebook
+273593751,10,2020-06-03,1,0,,Artes e Design,410,Curso
+954425664,1,2018-09-06,1,1,,Empreendedorismo,490,Assinatura
+260868848,7,2020-07-19,1,0,,Saúde e Alimentação,640,Assinatura
+264261718,8,2021-04-24,1,0,,Financas,560,Curso
+211477964,8,2021-11-03,0,0,,Tecnologia e Inovação,700,Assinatura
+382406448,5,2021-06-25,1,0,,Empreendedorismo,480,Curso
+868415522,6,2021-09-07,1,0,,Saúde e Alimentação,"1,120.00",Palestra
+555755392,2,2018-12-27,1,0,,Empreendedorismo,390,Curso
+286424787,2,2018-03-10,0,0,,Financas,49,Ebook
+322497896,4,2021-07-12,0,0,,Educação Infantil,230,Curso
+902519641,1,2019-12-04,1,1,,Marketing,600,Assinatura
+338359603,6,2019-12-02,0,0,,Saúde e Alimentação,57,Ebook
+382368790,7,2020-09-09,1,1,,Saúde e Alimentação,520,Assinatura
+585809781,4,2021-01-02,0,1,,Idiomas,830,Assinatura
+585123782,3,2022-07-23,1,0,2022-07-23,Tecnologia e Inovação,700,Palestra
+585253783,2,2019-01-04,1,1,2019-01-04,Financas,550,Curso
+596809784,5,2021-01-01,0,0,2021-01-01,Empreendedorismo,48,Ebook
+965497850,6,2020-10-02,1,0,2020-10-02,Saúde e Alimentação,620,Palestra
+858509786,6,2021-11-02,1,1,2021-11-02,Saúde e Alimentação,590,Assinatura
+765291444,1,2020-08-30,1,1,,Marketing,"1,014.00",Assinatura
+238350468,1,2020-06-23,1,1,,Marketing,546,Assinatura
+352679275,4,2021-08-10,0,0,2021-08-12,Educação Infantil,392,Palestra
+924575748,4,2021-11-19,1,1,,Educação Infantil,728,Curso
+808341207,2,2018-05-06,0,1,,Financas,612,Curso
+465888720,3,2020-06-19,1,1,,Empreendedorismo,480,Curso
+399463467,13,2020-05-04,1,1,,Tecnologia e Inovação,"1,488.00",Assinatura
+261217903,13,2020-06-30,1,0,,Tecnologia e Inovação,"1,364.00",Assinatura
+474268340,13,2019-01-04,1,1,2019-01-24,Tecnologia e Inovação,"1,984.00",Assinatura
+495666716,13,2019-05-24,1,0,,Tecnologia e Inovação,"1,612.00",Palestra
+719732475,13,2019-11-09,1,0,,Tecnologia e Inovação,"1,984.00",Curso
+922284793,14,2018-11-04,1,1,,Marketing,546,Curso
+893223901,14,2018-06-04,1,1,,Marketing,624,Curso
+234382743,14,2020-09-12,0,0,,Financas,30,Ebook
+616414227,14,2019-09-10,0,0,2020-08-10,Financas,30,Ebook
+241258270,6,2021-03-06,1,1,2021-04-06,Empreendedorismo,800,Assinatura
+732676177,6,2021-03-13,1,1,,Empreendedorismo,480,Curso
+251959622,7,2021-02-06,0,0,,Saúde e Alimentação,"1,520.00",Palestra
+957182962,8,2021-01-28,0,1,,Tecnologia e Inovação,868,Assinatura
+957182963,2,2020-01-29,1,1,,Financas,968,Assinatura
