@@ -62,7 +62,7 @@ Sales recovery refers to the strategy or tools that help complete sales for thos
 2. Use the queries built with SQL for details analysis, generate insights and recomentations.
 3. Development Power BI Dashboard for to follow sales and sales not completed.
 
-## Sales Follow Up Report: <a href="https://app.powerbi.com/view?r=eyJrIjoiMjAwZTkzZDQtNTE5Zi00OGRlLWIwMzItYjJmYWEyMjg4NTZkIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9">clique aqui</a>
+Sales Follow Up Report: <a href="https://app.powerbi.com/view?r=eyJrIjoiMjAwZTkzZDQtNTE5Zi00OGRlLWIwMzItYjJmYWEyMjg4NTZkIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9">clique aqui</a>
 
 ---
 
