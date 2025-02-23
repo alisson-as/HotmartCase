@@ -14,26 +14,26 @@ Sales recovery refers to the strategy or tools that help complete sales for thos
 
 ```
 ├── data
-|   ├── Producer.csv                            # Table Producer in format .csv
-|   ├── Products.csv                            # Table Products in format .csv
-|   ├── Sales.csv                               # Table Sales in format .csv
-|   └── sales.db                                # Tables cited above in SQLite database, after data cleaning and validation
+|   ├── Producer.csv                            # "Producer" table in CSV format.
+|   ├── Products.csv                            # "Products" table in CSV format.
+|   ├── Sales.csv                               # "Sales" table in CSV format.
+|   └── sales.db                                # SQLite database containing the tables above, after the data cleaning and validation process.
 |
 ├── docs  
-|   └── Processo Seletivo - Technical Case.pdf  # File with content for case development 
+|   └── Processo Seletivo - Technical Case.pdf  # Document with the instructions and context of the case.
 |                                        
-├── src                                         # Prinpal directory about analysis and notebook
-│   ├── analysis
-│   │   ├── 1_top_products_sales.sql            # SQL code for first case question
-│   │   ├── 2_top_producer.sql                  # SQL code for second case question
-│   │   ├── 3_sales_per_week.sql                # SQL code for third case question
-│   │   ├── 4_loss_performance.sql              # SQL code for fourth case question
-│   │   ├── 5_retention.sql                     # SQL code for Fifth case question
-│   │   ├── 6_top_producer2.sql                 # SQL code for sixth case question
-│   │   └── complete_table.sql                  # SQL code for select all table with respective join
+├── src                                         # Contains the analysis scripts and Jupyter notebooks used for data exploration.
+│   ├── analysis                                # SQL scripts to answer the case questions.
+│   │   ├── 1_top_products_sales.sql            # SQL code to identify the products with the highest sales (first case question).
+│   │   ├── 2_top_producer.sql                  # SQL code to identify the producers with the highest sales (second case question).
+│   │   ├── 3_sales_per_week.sql                # SQL code to calculate sales per week (third case question). 
+│   │   ├── 4_loss_performance.sql              # SQL code for Loss performance analysis (fourth case question).
+│   │   ├── 5_retention.sql                     # SQL code for customer retention analysis (fifth case question).
+│   │   ├── 6_top_producer2.sql                 # SQL code for a second analysis of top producer identification (sixth case question).
+│   │   └── complete_table.sql                  # SQL code to create a complete table with joins between tables.
 │   ├── notebook
-│   │   ├── 1_data_ingestion.ipynb              # Script for data cleaning and validation, and create db in SQLite
-│   │   └── 2_data_analysis.ipynb               # Script for detail analysis about case questions
+│   │   ├── 1_data_ingestion.ipynb              # Script to perform data cleaning, validation, and creation of the SQLite database (sales.db).
+│   │   └── 2_data_analysis.ipynb               # Script to perform detailed data analysis and answer the case questions.
 |
 ├── .gitignore                                  # File for informe folders/files ignore
 └── README.md                                   # Project principal documentation
@@ -60,19 +60,22 @@ Sales recovery refers to the strategy or tools that help complete sales for thos
 
 1. Create and generate queries for response the case questions in SQL Code.
 2. Use the queries built with SQL for details analysis, generate insights and recomentations.
+3. Development Power BI Dashboard for to follow sales and sales not completed.
+
+## Sales Follow Up Report: <a href="https://app.powerbi.com/view?r=eyJrIjoiMjAwZTkzZDQtNTE5Zi00OGRlLWIwMzItYjJmYWEyMjg4NTZkIiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9">clique aqui</a>
 
 ---
 
-## 💻 Technologies Used
+    ## 💻 Technologies Used
 
-- **Jupyter Notebook**: Interactive environments for producing form framework python code.
-- **SQLite**: Used with database locally to create tables after data cleaning.
-- **SQL Language**: Program Language used for create queries
-- **Python 3.12.2**: Program language used for detailed analysis
+    - **Jupyter Notebook**: Interactive environments for producing form framework python code.
+    - **SQLite**: Used with database locally to create tables after data cleaning.
+    - **SQL Language**: Program Language used for create queries
+    - **Python 3.12.2**: Program language used for detailed analysis
 
-    - **pandas**: Manipulation and organization data.
-    - **sqlalchemy**: Create and open SQL files form SQLite
-    - **matplotlib** and **seaborn**: Para visualizações gráficas.
+        - **pandas**: Manipulation and organization data.
+        - **sqlalchemy**: Create and open SQL files form SQLite
+        - **matplotlib** and **seaborn**: Para visualizações gráficas.
 ---
 
 ## 📜 Key insights and recommendations

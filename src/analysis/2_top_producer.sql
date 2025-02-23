@@ -1,4 +1,3 @@
-    
 WITH top_produ
 AS (
     SELECT
