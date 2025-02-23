@@ -87,6 +87,6 @@ Sales Follow Up Report: <a href="https://app.powerbi.com/view?r=eyJrIjoiMjAwZTkz
 
 ## 📞 Contato
 
-Alisson Aragão dos Santos | [E-mail](alissonaragao1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alisson-arag%C3%A3o-dos-santos-459297120/)>clique aqui</a>
+Alisson Aragão dos Santos | [E-mail](alissonaragao1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alisson-arag%C3%A3o-dos-santos-459297120/)</a>
 
 ## Se quiser começar a explorar o projeto, <a href="https://github.com/alisson-as/HotmartCase/blob/main/src/notebook/1.%20data_ingestion.ipynb">clique aqui</a>
