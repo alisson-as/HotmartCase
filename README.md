@@ -66,16 +66,15 @@ Sales Follow Up Report: <a href="https://app.powerbi.com/view?r=eyJrIjoiMjAwZTkz
 
 ---
 
-    ## 💻 Technologies Used
+## 💻 Technologies Used
 
-    - **Jupyter Notebook**: Interactive environments for producing form framework python code.
-    - **SQLite**: Used with database locally to create tables after data cleaning.
-    - **SQL Language**: Program Language used for create queries
-    - **Python 3.12.2**: Program language used for detailed analysis
-
-        - **pandas**: Manipulation and organization data.
-        - **sqlalchemy**: Create and open SQL files form SQLite
-        - **matplotlib** and **seaborn**: Para visualizações gráficas.
+- **Jupyter Notebook**: Interactive environments for producing form framework python code.
+- **SQLite**: Used with database locally to create tables after data cleaning.
+- **SQL Language**: Program Language used for create queries
+- **Python 3.12.2**: Program language used for detailed analysis
+    - **pandas**: Manipulation and organization data.
+    - **sqlalchemy**: Create and open SQL files form SQLite
+    - **matplotlib** and **seaborn**: Para visualizações gráficas.
 ---
 
 ## 📜 Key insights and recommendations
